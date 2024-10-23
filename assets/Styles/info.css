@@ -1,0 +1,22 @@
+#info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../images/Background_Intro.png);
+
+}
+
+#info header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 680px;
+
+    p {
+        color: var(--gray-400);
+    }
+
+    span {
+        color: var(--red)
+    };
+}

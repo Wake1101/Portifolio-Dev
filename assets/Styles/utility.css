@@ -1,0 +1,15 @@
+.title-lg {
+    font: var(--title-lg);
+}
+
+.subtitle{
+    font: var(--subtitle);
+}
+
+.text-sm {
+    font: var(--text-sm);
+}
+
+.container {
+    padding: 120px;
+}

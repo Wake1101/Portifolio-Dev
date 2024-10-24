@@ -1,3 +1,4 @@
+/* Titles  */
 .title-lg {
     font: var(--title-lg);
 }
@@ -10,14 +11,17 @@
     font: var(--title-sm);
 }
 
+/* Sibtitle */
 .subtitle{
     font: var(--subtitle);
 }
 
+/* Texts */
 .text-sm {
     font: var(--text-sm);
 }
 
+/* Container control */
 .container {
     padding-inline: 120px;
 }
@@ -34,6 +38,7 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
+/* Spaces */
 .gap-16 {
     gap: 16px;
 }

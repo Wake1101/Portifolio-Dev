@@ -1,15 +1,17 @@
+/* Projects part */
 #projects {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-block: 72px 144px;
 
-
+    /* Header */
     header {
         display: flex;
         flex-direction: column;
         align-items: center;
 
+        /* Titles */
         h3 {
             color: var(--red);
         }
@@ -20,9 +22,11 @@
         }
     }
 
+    /* Projects grid */
     #projects-grid {
         gap: 24px;
 
+        /* Cards */
         figure {
             display: flex;
             flex-direction: column;
@@ -33,12 +37,14 @@
             background-color: var(--gray-300);
             border-radius: 12px;
 
+            /* card image */
             img {
                 max-width: 306px;
                 border-radius: 12px;
                 object-fit: cover;
             }
 
+            /* Texts card */
             div {
                 max-width: 298px;
                 margin-bottom: 4px;

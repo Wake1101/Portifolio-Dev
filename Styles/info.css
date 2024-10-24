@@ -14,13 +14,10 @@
         h3 {
             margin-block: 56px 8px;
         }
-<<<<<<< HEAD
 
         h1 {
             color: var(--gray-600);
         }
-=======
->>>>>>> 6b3e186e01a0c86927d6930c24d346cf41ce7384
     
         p {
             color: var(--gray-400);
@@ -38,10 +35,7 @@
         background-color: var(--gray-300);
         padding: 8px 16px;
         border-radius: 999px;
-<<<<<<< HEAD
         gap: 8px;
-=======
->>>>>>> 6b3e186e01a0c86927d6930c24d346cf41ce7384
     }
 
     #downscroll {
@@ -56,11 +50,6 @@
             cursor: pointer;
         }
     }
-<<<<<<< HEAD
-=======
-    
-    
->>>>>>> 6b3e186e01a0c86927d6930c24d346cf41ce7384
 }
 
 

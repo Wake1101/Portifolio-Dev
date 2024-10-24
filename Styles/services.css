@@ -1,0 +1,33 @@
+#services {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-block: 88px 120px;
+    background-color: var(--gray-100);
+
+    /* Header texts */
+    header {
+        text-align: center;
+
+        h3 {
+            color: var(--red);
+        }
+
+        h2 {
+            color: var(--gray-600);
+            margin-block: 8px 56px;
+        }
+    }
+}
+
+#services-cards {
+    figure {
+        border: 2px solid var(--gray-200);
+        border-radius: 12px;
+        padding: 20px;
+        
+        h4 {
+            margin-block: 20px 8px;
+        }
+    }
+}
